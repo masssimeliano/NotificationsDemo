@@ -11,10 +11,13 @@ Example Of Working With Notifications
 
 # Screenshots
 
-* __New VS Old Android Versions__
+* __New & Old Android Versions__
 
-<img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_new.jpg" width="380" height="113" /> <img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_old.png" width="510" height="113" />
+<img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_new.png" width="380" height="113" /> <img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_old.png" width="480" height="113" />
 
+* __MainActivity__
+
+<img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_mainactivity.png" width="270" height="461" />
 
 
 # Who Made This?
