@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 int time_now = getTimeNow();
 
                 if (time_timePicker <= time_now)
-                    Toast.makeText(MainActivity.this, "Wrong Schedule", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Wrong Date Format", Toast.LENGTH_LONG).show();
                 else {
                     count_id = count_id + 1;
 
