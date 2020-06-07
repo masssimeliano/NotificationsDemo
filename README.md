@@ -6,14 +6,18 @@
 
 
 # Info About App
-Example Of Working With Notifications
+This app is an example of working with __Notifications__, __TimePicker__, __Timer and TimerTask__.
+
+
+# Version and devices
+This project is implemented in __Android Studio 4.0__. This app works correctly at __API 23__ : Android 6.0 (Marshmallow) and higher. Tested on Xiaomi Mi A1, Samsung Galaxy A30, Pixel API 24 (Virtual Device) and Nexus 5X API 28 (Virtual Device).
 
 
 # Screenshots
 
 * __New & Old Android Versions__
 
-<img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_new.png" width="380" height="113" /> <img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_old.png" width="480" height="113" />
+<img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_new.png" width="380" height="113" /> <img src="https://github.com/masssimeliano/NotificationsDemo/blob/master/app/src/main/res/raw/screenshot_notification_old.png" width="500" height="113" />
 
 * __MainActivity__
 
